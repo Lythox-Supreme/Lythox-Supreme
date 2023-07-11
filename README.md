@@ -1,7 +1,7 @@
 <b>👋 Hi, I’m @Lythox-Supreme</b>
 - 🇫🇷 I'm French
-- 🌐 I can speak English and Spanish too
 - 💻 I code in C#, Scratch, JavaScript, Python
+- 🌐 I can speak English and Spanish too
 - 📫 My discord : .lythox
 
 <!---
